@@ -8,10 +8,10 @@ I borrowed some code from https://github.com/stefanhaustein/TerminalImageViewer 
 # Build
 
 ```
-git clone https://github.com/ctkhanhly/SimpleVoronoi.git \
-cd SimpleVoronoi \
-make \
-sudo make install \
+git clone https://github.com/ctkhanhly/SimpleVoronoi.git 
+cd SimpleVoronoi 
+make 
+sudo make install 
 simple_vonoroi -w [width] -h [height] -d [distance thredshold for flood_fill ] file_name 
 ```
 

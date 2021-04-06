@@ -11,8 +11,8 @@ INSTALL_PROGRAM ?= $(INSTALL)
 
 # https://www.gnu.org/prep/standards/html_node/Directory-Variables.html#Directory-Variables
 #https://releases.llvm.org/7.0.0/projects/libcxx/docs/UsingLibcxx.html#using-filesystem-and-libc-fs
-# prefix      ?= /usr/local
-prefix      ?= /Volumes/lySSD
+prefix      ?= /usr/local
+#prefix      ?= /Volumes/lySSD
 exec_prefix ?= $(prefix)
 bindir      ?= $(exec_prefix)/bin
 

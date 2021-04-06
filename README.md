@@ -1,11 +1,11 @@
 # SimpleVoronoi
 Draw a simple Voronoi diagram art from any image to the terminal using block graphics
 
-#TerminalImageViewer
+# TerminalImageViewer
 
 I borrowed some code from https://github.com/stefanhaustein/TerminalImageViewer to display block graphics in the terminal \
 
-#Build
+# Build
 git clone https://github.com/ctkhanhly/SimpleVoronoi.git \
 cd SimpleVoronoi \
 make \

@@ -15,4 +15,14 @@ sudo make install
 simple_vonoroi -w [width] -h [height] -d [distance thredshold for flood_fill] [file_name]
 ```
 
+# Example
 
+The following is example for 
+
+``` 
+simple_voronoi jisoo.jpg -w 100 -h 100 -d 40 
+
+```
+
+![jisoo](https://raw.githubusercontent.com/ctkhanhly/SimpleVoronoi/master/jisoo.jpg)
+![jisoo_voronoi](https://raw.githubusercontent.com/ctkhanhly/SimpleVoronoi/master/jisoo_voronoi.jpg)
